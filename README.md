@@ -55,3 +55,50 @@ This tracker is especially useful for teams operating under IT governance framew
 
 ## Folder Structure
 
+change-management-tracker/
+│
+├── templates/
+│ ├── change_request_form.xlsx
+│ ├── change_log.xlsx
+│ └── risk_assessment_matrix.xlsx
+│
+├── docs/
+│ ├── process_overview.md
+│ ├── roles_responsibilities.md
+│ └── sample_change_log.md
+│
+└── README.md
+
+
+---
+
+## Framework Alignment
+
+This tracker aligns with:
+- **ITIL v4** – Change Enablement Practice
+- **COBIT** – BAI06 Manage Changes
+- **ISO 27001** – A.12.1.2 Change Management
+- **NIST 800-53** – CM-3 Configuration Change Control
+
+---
+
+## Benefits
+
+- Promotes transparency and accountability
+- Reduces risk through structured change assessment
+- Ensures documentation needed for audits and governance reviews
+- Supports faster, more confident decision-making for IT and operational changes
+
+---
+
+## Future Roadmap
+
+- Add a simple Streamlit or web-based interface for change request submissions
+- Integrate version-controlled change logs for audit trails
+- Add role-based access control (RBAC) support for team collaboration
+
+---
+
+## License
+
+This project is open-source and available under the MIT License.
